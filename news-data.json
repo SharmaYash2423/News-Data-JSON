@@ -1,0 +1,69 @@
+[
+    {
+      "id": "bbc-news",
+      "name": "BBC News",
+      "author": "Jane Smith",
+      "title": "Another Important Event",
+      "description": "Details about another important event happening around the world.",
+      "url": "https://www.bbc.com/news/world/2024/important-event",
+      "urlToImage": "https://cdn.bbc.com/news/images/important-event.jpg",
+      "publishedAt": "2024-09-08T10:20:00Z",
+      "content": "This is the full article content for the important event happening globally."
+    },
+    {
+      "id": "cnn-news",
+      "name": "CNN News",
+      "author": "John Doe",
+      "title": "Global Market Update",
+      "description": "An overview of the current trends in global markets.",
+      "url": "https://www.cnn.com/2024/market-update",
+      "urlToImage": "https://cdn.cnn.com/images/market-update.jpg",
+      "publishedAt": "2024-09-08T11:00:00Z",
+      "content": "This is the full article content about the latest global market trends."
+    },
+    {
+      "id": "nytimes",
+      "name": "The New York Times",
+      "author": "Emily Johnson",
+      "title": "Tech Innovations of 2024",
+      "description": "A deep dive into the technological innovations emerging in 2024.",
+      "url": "https://www.nytimes.com/2024/tech-innovations",
+      "urlToImage": "https://cdn.nytimes.com/images/tech-innovations.jpg",
+      "publishedAt": "2024-09-08T12:15:00Z",
+      "content": "This is the full article content on the latest tech innovations in 2024."
+    },
+    {
+      "id": "reuters",
+      "name": "Reuters",
+      "author": "Michael Lee",
+      "title": "Climate Change Impact",
+      "description": "Exploring the impacts of climate change across the globe.",
+      "url": "https://www.reuters.com/2024/climate-change-impact",
+      "urlToImage": "https://cdn.reuters.com/images/climate-change.jpg",
+      "publishedAt": "2024-09-08T13:45:00Z",
+      "content": "This is the full article content on the global impacts of climate change."
+    },
+    {
+      "id": "guardian",
+      "name": "The Guardian",
+      "author": "Sophia Brown",
+      "title": "Political Turmoil",
+      "description": "Coverage of the recent political turmoil in various countries.",
+      "url": "https://www.theguardian.com/2024/political-turmoil",
+      "urlToImage": "https://cdn.guardian.com/images/political-turmoil.jpg",
+      "publishedAt": "2024-09-08T14:30:00Z",
+      "content": "This is the full article content on the ongoing political turmoil."
+    },
+    {
+      "id": "forbes",
+      "name": "Forbes",
+      "author": "Chris Green",
+      "title": "Top Entrepreneurs of 2024",
+      "description": "A list of the most influential entrepreneurs of 2024.",
+      "url": "https://www.forbes.com/2024/top-entrepreneurs",
+      "urlToImage": "https://cdn.forbes.com/images/top-entrepreneurs.jpg",
+      "publishedAt": "2024-09-08T15:10:00Z",
+      "content": "This is the full article content on the top entrepreneurs of 2024."
+    }
+]
+  
